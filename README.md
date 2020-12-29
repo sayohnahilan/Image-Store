@@ -18,6 +18,10 @@ For a list of available routes,
 rails routes
 ```  
 
+Entity Relationship Diagram
+--------------
+![](https://github.com/sayohnahilan/Image-Store/blob/main/app/models/ERD.PNG)
+
 Resource
 --------------
 [Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)  
