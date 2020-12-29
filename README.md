@@ -1,24 +1,27 @@
-# README
+# Sayohn's Image Store
+A simple ecommerce store made to learn the basics of Ruby on Rails. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Run project
+--------------
+```console
+git clone https://github.com/sayohnahilan/Image-Store.git  
+cd image-store
+yarn install --check-files
+rails db:migrate
+bundle install
+rails server
+```
+Then, navigate to [http://localhost:3000/](http://localhost:3000/).
 
-Things you may want to cover:
 
-* Ruby version
+Resource
+--------------
+[Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)  
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Built on:
+--------------
+* Ruby version: 2.7.2
+* Rails version: 6.0.3.4
+* Node version: 14.15.3
+* Sqlite3 gem version: 1.4
