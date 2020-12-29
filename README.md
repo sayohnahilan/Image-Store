@@ -1,5 +1,5 @@
 # Sayohn's Image Store
-A simple ecommerce store made to learn the basics of Ruby on Rails. 
+A simple ecommerce store made to learn the basics of Ruby on Rails.  
 
 Run project
 --------------
@@ -16,12 +16,11 @@ Then, navigate to [http://localhost:3000/](http://localhost:3000/).
 For a list of available routes, 
 ```console
 rails routes
-```
+```  
 
 Resource
 --------------
 [Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)  
-
 
 Built on:
 --------------
